@@ -14,4 +14,8 @@ This project, part of Udacity's Data Analyst Nanodegree, delves into data from t
 
 ### Certifications
 ---
+Here is my completed Udacity NanoDegree certification.
+
+*Data Analyst*
+EMPLOYERS: 
 
