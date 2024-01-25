@@ -11,3 +11,7 @@ This project, part of Udacity's Data Analyst Nanodegree, delves into data from t
 - Pandas
 - Numpy
 - Matplotlib
+
+### Certifications
+---
+
