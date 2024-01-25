@@ -16,7 +16,7 @@ This project, part of Udacity's Data Analyst Nanodegree, delves into data from t
 ---
 Here is my completed Udacity NanoDegree certification.
 
-*Data Analyst*
+*Data Analyst (DAND):*
 EMPLOYERS: [Click here to confirm my certificate](https://graduation.udacity.com/confirm/e/bb8e540e-903c-11ee-b349-a33b73c6103c)
 
 <img src ="https://github.com/jamesbimler/udacity-firearms-census/blob/main/DAND%20Degree.jpg">
