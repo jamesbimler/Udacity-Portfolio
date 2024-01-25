@@ -18,4 +18,4 @@ Here is my completed Udacity NanoDegree certification.
 
 *Data Analyst*
 EMPLOYERS: 
-
+<img src ="https://github.com/jamesbimler/udacity-firearms-census/blob/main/DAND%20Degree.jpg">
